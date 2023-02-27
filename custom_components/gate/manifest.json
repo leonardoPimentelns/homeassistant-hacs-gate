@@ -3,7 +3,7 @@
   "name": "gate",
   "config_flow": true,
   "version": "1.0.0", 
-  "requirements": [],
+  "requirements": [gate_api],
   "ssdp": [],
   "zeroconf": [],
   "homekit": {},
