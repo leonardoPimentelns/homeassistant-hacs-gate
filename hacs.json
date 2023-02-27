@@ -1,0 +1,7 @@
+{
+
+  "name": "Gate",
+  "domains": ["sensor"], 
+  "render_readme": true
+
+}
