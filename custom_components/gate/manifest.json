@@ -1,0 +1,13 @@
+{
+  "domain": "gate",
+  "name": "gate",
+  "config_flow": true,
+  "version": "1.0.0", 
+  "requirements": [],
+  "ssdp": [],
+  "zeroconf": [],
+  "homekit": {},
+  "dependencies": [],
+  "codeowners": [],
+  "iot_class": "cloud_polling"
+}
